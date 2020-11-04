@@ -1,4 +1,4 @@
-#ProbEst
+# ProbEst
 
 Atividade 1 da disciplina de probabilidade e estatística
 
