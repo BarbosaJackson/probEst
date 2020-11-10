@@ -13,7 +13,7 @@ Atividade 1 da disciplina de probabilidade e estatística
   [Script](https://github.com/BarbosaJackson/probEst/blob/master/script2.r)
   
   [Plotagem](https://github.com/BarbosaJackson/probEst/blob/master/segunda_quest.pdf)
-### 3) Escolha duas variáveis qualitativa, sexo e situação atual, por exemplo e elabore alguns tipos de gráficos de barras.
+### 3) Escolha duas variáveis qualitativa, sexo e situação atual, por exemplo e elabore alguns tipos de gráficos de barras. (OBS: TA FALTANDO MUDAR AS CORES)
   [Script](https://github.com/BarbosaJackson/probEst/blob/master/script3.r)
   
   [Plotagem](https://github.com/BarbosaJackson/probEst/blob/master/terceira_quest.pdf)
