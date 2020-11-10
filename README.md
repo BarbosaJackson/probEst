@@ -3,6 +3,8 @@
 Atividade 1 da disciplina de probabilidade e estatística
   
   Discentes: Ascânio Sávio de Araujo Neves e Jackson Barbosa da Silva
+  
+  [GitHub](http://github.com)
 
 ### 1) Escolha uma variável qualitativa e elabore um gráfico de barras e um gráfico de pizza.
 ### 2) Escolha uma variável continua, no caso Idade, e elabore e a tabela de Frequências com os dados agrupados e o gráfico histograma.
