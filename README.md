@@ -4,7 +4,7 @@ Atividade 1 da disciplina de probabilidade e estatística
   
   Discentes: Ascânio Sávio de Araujo Neves e Jackson Barbosa da Silva
   
-  [Dados](https://github.com/BarbosaJackson/probEst/blob/master/dados_pandemia_alagoas.csv) utilizados para o estudo.
+  Dados utilizados para o estudo: [Clique Aqui](https://github.com/BarbosaJackson/probEst/blob/master/dados_pandemia_alagoas.csv).
 
 ### 1) Escolha uma variável qualitativa e elabore um gráfico de barras e um gráfico de pizza: 
   [Script](https://github.com/BarbosaJackson/probEst/blob/master/script.r)
