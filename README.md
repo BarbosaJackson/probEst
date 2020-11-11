@@ -13,7 +13,7 @@ Atividade 1 da disciplina de probabilidade e estatística
   [Script](https://github.com/BarbosaJackson/probEst/blob/master/script2.r)
   
   [Plotagem](https://github.com/BarbosaJackson/probEst/blob/master/segunda_quest.pdf)
-### 3) Escolha duas variáveis qualitativa, sexo e situação atual, por exemplo e elabore alguns tipos de gráficos de barras. (OBS: TA FALTANDO MUDAR AS CORES)
+### 3) Escolha duas variáveis qualitativa, sexo e situação atual, por exemplo e elabore alguns tipos de gráficos de barras.
   [Script](https://github.com/BarbosaJackson/probEst/blob/master/script3.r)
   
   [Plotagem](https://github.com/BarbosaJackson/probEst/blob/master/terceira_quest.pdf)
@@ -25,4 +25,4 @@ Atividade 1 da disciplina de probabilidade e estatística
   
   I - Com base no gráfico percebe-se que as pessoas com idades entre 20 e 45 anos tiveram uma maior frequência de infecção, tal fato ocorre porquê as pessoas nessa faixa etária se expõe mais as ruas, uma vez que elas saem para trabalhar (em sua maioria).
   
-  II - 
+  II - Com base no gráfico boxplot nota-se que para o gênero feminino a máxima idade de pessoa infectado foi um pouco acima de 100 anos e a mínima um pouco acima de 0 anos. 
