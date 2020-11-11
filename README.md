@@ -18,6 +18,9 @@ Atividade 1 da disciplina de probabilidade e estatística
   
   [Plotagem](https://github.com/BarbosaJackson/probEst/blob/master/terceira_quest.pdf)
 ### 4) Considere a variável qualitativa sexo e a variável quantitativa Idade e elabore os gráficos boxplots correspondentes.
+  [Script](https://github.com/BarbosaJackson/probEst/blob/master/script4.r)
+  
+  [Plotagem](https://github.com/BarbosaJackson/probEst/blob/master/script4.r)
 ### 5) Diante dos gráficos apresentados o que você pode afirmar com relação a idade (item2) e com relação a idade e sexo (item 4)? Caso ache necessários faça outros gráficos para ilustrar as suas conclusões.
   
   I - Com base no gráfico percebe-se que as pessoas com idades entre 20 e 45 anos tiveram uma maior frequência de infecção, tal fato ocorre porquê as pessoas nessa faixa etária se expõe mais as ruas, uma vez que elas saem para trabalhar (em sua maioria).
